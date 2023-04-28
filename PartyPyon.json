@@ -5,7 +5,7 @@
 	"Description": "Automatically recreate party finder listing.",
 	"Changelog": "",
 	"InternalName": "PartyPyon",
-	"AssemblyVersion": "1.0.0.0",
+	"AssemblyVersion": "1.0.1.0",
 	"RepoUrl": "https://github.com/priprii/FFXIVPartyPyon",
 	"ApplicableVersion": "any",
 	"CategoryTags": [ "minigames" ],
