@@ -1,0 +1,22 @@
+[{
+	"Author": "Pyon",
+	"Name": "PartyPyon",
+	"Punchline": "Automatically recreate party finder listing.",
+	"Description": "Automatically recreate party finder listing.",
+	"Changelog": "",
+	"InternalName": "PartyPyon",
+	"AssemblyVersion": "1.0.0.0",
+	"RepoUrl": "https://github.com/priprii/FFXIVPartyPyon",
+	"ApplicableVersion": "any",
+	"CategoryTags": [ "minigames" ],
+	"Tags": [ "party", "finder", "pyon" ],
+	"DalamudApiLevel": 8,
+	"IconUrl": "",
+	"ImageUrls": [ "" ],
+	"DownloadLinkInstall": "https://github.com/priprii/FFXIVPartyPyon/raw/main/bin/PartyPyon.zip",
+	"IsHide": false,
+	"IsTestingExclusive": false,
+	"DownloadLinkTesting": "https://github.com/priprii/FFXIVPartyPyon/raw/main/bin/PartyPyon.zip",
+	"DownloadLinkUpdate": "https://github.com/priprii/FFXIVPartyPyon/raw/main/bin/PartyPyon.zip",
+	"DownloadCount": 0
+}]
